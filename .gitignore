@@ -1,0 +1,5 @@
+*.aux
+*.log
+ideas/xlnotes/xlnotes_caltech_lfd/*.pdf
+*.gz
+*.un~
