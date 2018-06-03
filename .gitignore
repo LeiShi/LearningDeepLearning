@@ -1,0 +1,9 @@
+# Latex produced record files
+*.aux
+*.log
+*.gz
+*.out
+*.blg
+
+# PyCharm project files
+.idea/
